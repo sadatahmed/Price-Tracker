@@ -1,0 +1,43 @@
+This is a simple mini project for BOOK price compare(PRICE TRACKER).
+In this project User just compare different ecomerce bookstores book and find out the best deal for them and make a decition which website can give them same book with chipper price.
+
+------USER-----
+Without login User can not use this website.
+After registration and successfully login user can view book and compare book to other marketplace.
+User can view book in a single product or the whole bookstore marketplace wise.
+User can serach a book and find which websites available this book and there price also.
+User can logout.
+
+-----ADMIN-----
+Without login Admin can not view admin panel.
+In admin section admin can view whole registred customer.
+Admin can update book information and Delete book from database.
+Admin can logout.
+
+--------Technology-----------
+PHP
+MySQL
+Bootstrap
+CSS
+JavaScript
+
+To successfully run the web application one must follow these steps:
+
+1. Download and Install xampp.
+
+2. After Installing, Copy and Paste the whole folder <bookstore>  to this directory: C:\xampp\htdocs
+
+3. Open Xampp program and then start Apache and Mysql.
+
+4. Click on "Admin" button of "Mysql". Your Browser will open and you will be redirected to phpmyadmin page.
+
+5. Create a new database with exactly the same name as the <books.sql> file situated at 
+location C:\xampp\htdocs\bookstore
+
+6. Click on "Import" tab. From the browse option click on choose file and select <books.sql> file 
+from location C:\xampp\htdocs\bookstore 
+Finally, Scroll down and click on go. 
+
+7. Now open a browser and in address bar, type: localhost/bookstore
+
+8. I hope you like it!
